@@ -40,7 +40,7 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnsooraj&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=johnsooraj&show_icons=true&hide_border=false" />
 
 [website]: https://github.com/johnsooraj
 [twitter]: https://twitter.com/johnsooraj
