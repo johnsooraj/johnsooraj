@@ -12,8 +12,8 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=https://github.com/johnsooraj/Spring-Session-In-JDBC)](https://github.com/johnsooraj/Spring-Session-In-JDBC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsooraj&hide=)](https://github.com/johnsooraj/Spring-Session-In-JDBC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=Spring-Session-In-JDBC)](https://github.com/johnsooraj/Spring-Session-In-JDBC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsooraj&hide=)](https://github.com/johnsooraj/Quick-Note-All)
 
 
 
