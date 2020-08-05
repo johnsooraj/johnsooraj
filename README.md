@@ -7,6 +7,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Skating, Musics, Games
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=Quick-Note-All)](https://github.com/johnsooraj/Quick-Note-All)
+
 
 ### Connect with me:
 
