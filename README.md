@@ -8,12 +8,12 @@
 - ⚡ Fun fact: I love Skating, Musics, Games
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=Quick-Note-All)](https://github.com/johnsooraj/Quick-Note-All)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsooraj&hide=)](https://github.com/johnsooraj/Quick-Note-All)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsooraj&hide=&layout=compact)](https://github.com/johnsooraj/Quick-Note-All)
 
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=Spring-Session-In-JDBC)](https://github.com/johnsooraj/Spring-Session-In-JDBC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsooraj&hide=&layout=compact)](https://github.com/johnsooraj/Quick-Note-All)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsooraj&hide=&layout=compact)](https://github.com/johnsooraj/Spring-Session-In-JDBC)
 
 
 
