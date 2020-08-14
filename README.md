@@ -1,4 +1,4 @@
-### Hi there, I'm John
+### Hi there,
 
 ## Being a developer since 2014
 - 🔭 I’m currently working on a Micro-Service System Desing and Implementation 
