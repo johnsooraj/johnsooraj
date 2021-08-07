@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Micro-Service System Desing and Implementation 
 - 🌱 I’m currently learning Redis : Distributed session handling
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Skating, Musics, Games
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=Quick-Note-All)](https://github.com/johnsooraj/Quick-Note-All)
