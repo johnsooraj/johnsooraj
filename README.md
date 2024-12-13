@@ -1,10 +1,10 @@
 ### Hi there,
 
 ## Being a developer since 2014
-- 🔭 I’m currently working on a Micro-Service System Desing and Implementation 
-- 🌱 I’m currently learning Redis : Distributed session handling
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 8+ years of work experience in Java.
+- 🌱 I’m currently learning Kubernetes and AWS
+- 👯 I’m looking for a job change in Product Based Companies and prefer Fin-Tech Domain
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Skating, Musics, Games
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johnsooraj&repo=Quick-Note-All)](https://github.com/johnsooraj/Quick-Note-All)
